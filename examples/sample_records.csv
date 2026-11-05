@@ -1,0 +1,3 @@
+case_id,jurisdiction,source_url,retrieved_on,reported_surplus,claim_deadline
+DEMO-001,Example County,https://example.org/case/1,2026-11-05,12500.00,2027-01-15
+DEMO-002,Example County,https://example.org/case/2,2026-11-05,,
