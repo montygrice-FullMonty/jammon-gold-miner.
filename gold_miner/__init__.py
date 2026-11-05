@@ -1,0 +1,1 @@
+"""Gold Miner prototype package."""
